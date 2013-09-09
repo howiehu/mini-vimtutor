@@ -3,6 +3,14 @@ Vim官方教程“精编版”
 
 这是我在学习Vim官方自带的vimtutor教程时，顺手将每个小结节选下来的Vim官方教程“精编版”，顺便用Markdown重新排版了一下，发现其实这也是个不错的参考资料，给广大Vim同好参考用吧。
 
+另外，针对搞Rails的开发环境和学习途径：
+
+初学者建议直接用[Janus](https://github.com/carlhuda/janus)，所有但凡你能用到的都包括在里面了，比如rails.vim和vim-coffee-script，等你觉得不够用了的时候，也就基本上可以上到更高一级台阶了。
+
+学习基本操作和rails.vim建议看[VimGenius](http://vimgenius.com/)。
+
+另外奉上 [本人收集的学习资料和工具](https://github.com/howiehu/vim_tutorials)。
+
 第一讲小结
 --------
 
